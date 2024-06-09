@@ -15,7 +15,7 @@
 | Kotlin          |                      |                 |
 
 ## Education
-- Electrical Engineering, Cumulative GPA:3.60/4.00 	| University of Brawijaya (2021-Present)	 			        		
+- Electrical Engineering, Cumulative GPA:3.60/4.00 University of Brawijaya (2021-Present)	 			        		
 - Machine Learning Learning Path, Avg Score: 95.1/100 | Bangkit Academy led by Google, GoTo, & Traveloka (2023)
 - Machine Learning Learning Path, Expert Class | Lintasarta Cloudeka Digischool 2023 (2023-2024)
 
