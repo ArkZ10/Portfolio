@@ -42,25 +42,25 @@
 
 DISHDASH, an innovative application for meal planning, addresses common challenges faced by students and the general public in Indonesia. It offers restaurant menu recommendations 🍱 to promote healthy eating habits 💪, assist in making nutritious choices ⏳, and manage budget constraints 💸.
 
-![DishDash App](/assets/img/dishdash_app.jpeg)
+![DishDash App](/assets/img/dishdash_app.png)
 
 ### Flower Classification Model (End to End) 🌸
 [Flower Classification](https://github.com/ArkZ10/Plant-Classification)
 
 Developed a machine learning model to classify flowers, comparing six different models. Achieved highest accuracy using transfer learning with **InceptionV3** and LeakyReLU activation. Deployed on TensorFlow Lite (TFLite) for real-time mobile classification 📱.
 
-![App Screenshot](/assets/img/flower_app.jpeg)
+![App Screenshot](/assets/img/flower_app.png)
 
 ### NLP Model Using MLOps (End to End) 📰
 [Fake New Detection](https://github.com/ArkZ10/Fake-News-Detection)
 
 Addressed the challenge of fake news detection, achieving Accuracy: 85.37% and AUC: 91.64%. Deployed on Lintasarta Cloudeka Server, supporting efforts to combat misinformation 🚫.
 
-![Server Screenshot](/assets/img/server.jpeg)
+![Server Screenshot](/assets/img/server.png)
 
 ### LSTM Model for Weather Forecasting ☀️
 [Weather Forecasting](https://github.com/ArkZ10/Weather-Prediction-LSTM)
 
 Developed a time series forecasting model for predicting maximum temperatures in London. Combined CNN and LSTM layers, trained with Huber loss and SGD optimizer. Demonstrated practical applications in weather prediction 🌦️.
 
-![Evaluation Screenshot](/assets/img/prediction.jpeg)
+![Evaluation Screenshot](/assets/img/prediction.png)
