@@ -23,18 +23,15 @@
 **Aeronautics Workshop**
 - Research projects focusing on Unmanned Aerial Vehicles (UAV) or other air flight-capable machines
 - Competed in the KRTI 2024 VTOL division as team captain 🚁
-[Project Link]()
-![Image]()
+[Aeronautics](https://github.com/ArkZ10/Aeronautics-Workshop)
 
 **Computer & Network Laboratory, Brawijaya University**
 - Assisted in creating learning modules for laboratory experiments (C & Python)
 - Conducted research on various programming languages, including game development 🎮
-![Image]()
 
 **NUS x Faculty of Engineering, Brawijaya University**
 - Collaborated with NUS students to explore Sustainable Development Goals (SDGs) in Southeast Asia, focusing on Malang, Indonesia.
 - Acted as a translator and tour guide for NUS students in Malang 🌏
-![Image]()
 
 ## Projects
 ### DishDash: Smart Meal Planner App 🍽️
