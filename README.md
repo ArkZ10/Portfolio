@@ -1,18 +1,18 @@
 # Electrical Engineering Student/AI Enthusiast
 
 #### Personal Skills:
-| Technical Skill | Soft Skill | Tools |
-| -----------     | -----------| ----------- | 
-| C | Problem Solving |TensorFlow|
-| C++ |Critical Thinking|OpenCV|
-| Python |Adaptability|MySQL|
-| HTML |Communication|Scikit-Learn|
-| CSS |Project Management|Android Studio|
-| Java |Leadership|GitHub|
-| SQL |English Intermediate|Pandas|
-| Git | |Docker|
-| Haskell |  |Tableau|
-| Kotlin |  | |
+| Technical Skill | Soft Skill           | Tools           |
+|  :---:          |  :---:               |  :---:          | 
+| C               | Problem Solving      | TensorFlow      |
+| C++             | Critical Thinking    | OpenCV          |
+| Python          | Adaptability         | MySQL           |
+| HTML            | Communication        | Scikit-Learn    |
+| CSS             | Project Management   | Android Studio  |
+| Java            | Leadership           | GitHub          |
+| SQL             | English Intermediate | Pandas          |
+| Git             |                      | Docker          |
+| Haskell         |                      | Tableau         |
+| Kotlin          |                      |                 |
 
 ## Education
 - Electrical Engineering, Cumulative GPA:3.60/4.00 	| University of Brawijaya (2021-Present)	 			        		
@@ -24,17 +24,17 @@
 - Research projects focusing on Unmanned Aerial Vehicles (UAV) or other air flight-capable machines
 - Compete on KRTI 2024 VTOL division as the captain of the team
 [Project Link]()
-[Image]
+![Image]()
 
 **Computer & Network Laboratory Brawijaya University**
 - Assisting in making learning modules for laboratory experiments (C & Python)
 - Research projects on various programming languages, such as developing casual game
-[Image]
+![Image]()
 
 **NUS x Faculty of Engineering Brawijaya University**
 - Joined NUS students to examine how the Sustainable Development Goals (SDGs) can be applied in Southeast Asia, with a special emphasis on Malang, Indonesia.
 - Guided NUS students across Malang, serving as their personal translator and tour guide.
-[Image]
+![Image]()
 
 ## Projects
 ### DishDash: Smart Meal Planner App
