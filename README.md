@@ -1,18 +1,18 @@
 # Electrical Engineering Student/AI Enthusiast
 
-#### Personal Skills:
+## Personal Skills:
 | Technical Skill | Soft Skill           | Tools           |
 |  :---:          |  :---:               |  :---:          | 
-| C               | Problem Solving      | TensorFlow      |
-| C++             | Critical Thinking    | OpenCV          |
-| Python          | Adaptability         | MySQL           |
-| HTML            | Communication        | Scikit-Learn    |
-| CSS             | Project Management   | Android Studio  |
-| Java            | Leadership           | GitHub          |
-| SQL             | English Intermediate | Pandas          |
-| Git             |                      | Docker          |
-| Haskell         |                      | Tableau         |
-| Kotlin          |                      |                 |
+| <img src="assets/logos/c-logo.png" width="20"/> C               | Problem Solving      | <img src="assets/logos/tensorflow-logo.png" width="20"/> TensorFlow      |
+| <img src="assets/logos/cpp-logo.png" width="20"/> C++             | Critical Thinking    | <img src="assets/logos/opencv-logo.png" width="20"/> OpenCV          |
+| <img src="assets/logos/python-logo.png" width="20"/> Python          | Adaptability         | <img src="assets/logos/mysql-logo.png" width="20"/> MySQL           |
+| <img src="assets/logos/html-logo.png" width="20"/> HTML            | Communication        | <img src="assets/logos/scikit-learn-logo.png" width="20"/> Scikit-Learn    |
+| <img src="assets/logos/css-logo.png" width="20"/> CSS             | Project Management   | <img src="assets/logos/android-studio-logo.png" width="20"/> Android Studio  |
+| <img src="assets/logos/java-logo.png" width="20"/> Java            | Leadership           | <img src="assets/logos/github-logo.png" width="20"/> GitHub          |
+| <img src="assets/logos/sql-logo.png" width="20"/> SQL             | English Intermediate | <img src="assets/logos/pandas-logo.png" width="20"/> Pandas          |
+| <img src="assets/logos/git-logo.png" width="20"/> Git             | Teamwork 🤝           | <img src="assets/logos/docker-logo.png" width="20"/> Docker          |
+| <img src="assets/logos/haskell-logo.png" width="20"/> Haskell         | Analytical Thinking 🧠 | <img src="assets/logos/tableau-logo.png" width="20"/> Tableau         |
+| <img src="assets/logos/kotlin-logo.png" width="20"/> Kotlin          | Creative Problem Solving 💡 |                 |
 
 ## Education
 - Electrical Engineering, Cumulative GPA:3.60/4.00 | University of Brawijaya (2021-Present)	 			        		
@@ -22,46 +22,45 @@
 ## Experience
 **Aeronautics Workshop**
 - Research projects focusing on Unmanned Aerial Vehicles (UAV) or other air flight-capable machines
-- Compete on KRTI 2024 VTOL division as the captain of the team
+- Competed in the KRTI 2024 VTOL division as team captain 🚁
 [Project Link]()
 ![Image]()
 
-**Computer & Network Laboratory Brawijaya University**
-- Assisting in making learning modules for laboratory experiments (C & Python)
-- Research projects on various programming languages, such as developing casual game
+**Computer & Network Laboratory, Brawijaya University**
+- Assisted in creating learning modules for laboratory experiments (C & Python)
+- Conducted research on various programming languages, including game development 🎮
 ![Image]()
 
-**NUS x Faculty of Engineering Brawijaya University**
-- Joined NUS students to examine how the Sustainable Development Goals (SDGs) can be applied in Southeast Asia, with a special emphasis on Malang, Indonesia.
-- Guided NUS students across Malang, serving as their personal translator and tour guide.
+**NUS x Faculty of Engineering, Brawijaya University**
+- Collaborated with NUS students to explore Sustainable Development Goals (SDGs) in Southeast Asia, focusing on Malang, Indonesia.
+- Acted as a translator and tour guide for NUS students in Malang 🌏
 ![Image]()
 
 ## Projects
-### DishDash: Smart Meal Planner App
+### DishDash: Smart Meal Planner App 🍽️
 [DishDash](https://github.com/ArkZ10/DishDash-Model)
 
-DISHDASH, an innovative application of meal planning for students response to the challenges faced by the majority of people in Indonesia, especially by college students, including confusion over meal choices, unhealthy eating habits, irregular eating patterns and budget constraints. This study presents, a novel solution in the form of a restaurant menu recommendation app🍽. The app aims to promote healthy eating habits💡assist users in making nutritious choices⏳ within their budgetary constraints💸
+DISHDASH, an innovative application for meal planning, addresses common challenges faced by students and the general public in Indonesia. It offers restaurant menu recommendations 🍱 to promote healthy eating habits 💪, assist in making nutritious choices ⏳, and manage budget constraints 💸.
 
 ![DishDash App](/assets/img/dishdash_app.jpeg)
 
-### Flower Classification Model (End to End)
+### Flower Classification Model (End to End) 🌸
 [Flower Classification](https://github.com/ArkZ10/Plant-Classification)
 
-In this project, I developed a machine learning model to classify flowers into different categories. I experimented with six different models to compare their performance. The best results were achieved using transfer learning with **InceptionV3** as the pre-trained model and LeakyReLU as the activation function, which provided the highest accuracy. After identifying this optimal model, I deployed it using TensorFlow Lite (TFLite) for integration into a mobile app. This deployment allows real-time flower classification on mobile devices, demonstrating the practical application of machine learning in mobile development.
+Developed a machine learning model to classify flowers, comparing six different models. Achieved highest accuracy using transfer learning with **InceptionV3** and LeakyReLU activation. Deployed on TensorFlow Lite (TFLite) for real-time mobile classification 📱.
 
 ![App Screenshot](/assets/img/flower_app.jpeg)
 
-### NLP Model Using MLOps (End to End)
+### NLP Model Using MLOps (End to End) 📰
 [Fake New Detection](https://github.com/ArkZ10/Fake-News-Detection)
 
-This project addresses the challenge of fake news detection, a critical issue in today's digital era. Fake news can significantly impact public perception, democratic processes, and social stability. Developing machine learning models to classify news articles as real or fake can aid in combating the spread of misinformation. The model achieved: Accuracy: 85.37%, AUC: 91.64%, Identified 12 false positives and 12 false negatives, indicating areas for improvement to reduce prediction errors. The fake news detection model is deployed on the Lintasarta Cloudeka Server, a Platform as a Service (PaaS) offering free deployment services.
+Addressed the challenge of fake news detection, achieving Accuracy: 85.37% and AUC: 91.64%. Deployed on Lintasarta Cloudeka Server, supporting efforts to combat misinformation 🚫.
 
-![Server Screenshot](/assets/img/flower_app.jpeg)
+![Server Screenshot](/assets/img/server.jpeg)
 
-### LSTM Model for Weather Forecasting
+### LSTM Model for Weather Forecasting ☀️
 [Weather Forecasting](https://github.com/ArkZ10/Weather-Prediction-LSTM)
 
-In this project, I developed a time series forecasting model to predict maximum temperatures in London using historical weather data. The dataset underwent preprocessing to handle missing values and was visualized to identify temporal patterns in maximum temperatures. The model architecture combined Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) layers, trained with Huber loss and SGD optimizer, evaluating performance using MAE and Loss metrics. The CNN layer facilitated feature extraction, while LSTM captured temporal dependencies, enabling accurate temperature forecasts. This project underscores the significance of data preprocessing, model selection, and evaluation in time series forecasting, demonstrating practical applications in weather prediction and related domains.
+Developed a time series forecasting model for predicting maximum temperatures in London. Combined CNN and LSTM layers, trained with Huber loss and SGD optimizer. Demonstrated practical applications in weather prediction 🌦️.
 
-![Evaluation Screenshot](/assets/img/flower_app.jpeg)
-
+![Evaluation Screenshot](/assets/img/prediction.jpeg)
