@@ -44,7 +44,7 @@ DISHDASH, an innovative application for meal planning, addresses common challeng
 ### Flower Classification Model (End to End) 🌸
 [Flower Classification](https://github.com/ArkZ10/Plant-Classification)
 
-Developed a machine learning model to classify flowers, comparing six different models. Achieved highest accuracy using transfer learning with **InceptionV3** and LeakyReLU activation. Deployed on TensorFlow Lite (TFLite) for real-time mobile classification 📱.
+Developed a machine learning model to classify flowers, comparing six different models. Achieved highest accuracy using transfer learning with **InceptionV3** and LeakyReLU activation. Deployed on TensorFlow Lite (TFLite) for real-time mobile classification📱.
 
 ![App Screenshot](/assets/img/flower_app.png)
 
